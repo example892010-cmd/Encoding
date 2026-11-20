@@ -1,5 +1,4 @@
 <div align="center">
-
   # 🎬 VideoEncoder Bot
 
   <p>
